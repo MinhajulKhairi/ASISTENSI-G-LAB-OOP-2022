@@ -1,0 +1,3 @@
+interface Pindah{
+    void move();   
+}

@@ -1,0 +1,53 @@
+.button {
+  -fx-font-size: 14px;
+  -fx-min-width: 80px;
+  -fx-min-height: 30px;
+  -fx-background-color: #d49e38;
+  -fx-text-fill: rgb(0, 0, 0);
+
+}
+
+.button:hover {
+  -fx-background-color: #ffffff;
+
+}
+
+
+.text{
+  -fx-font-size: 16px;
+  -fx-text-fill: rgb(255, 255, 255);
+  -fx-font-weight: bold;
+
+}
+
+.label {
+  -fx-font-size: 14px;
+  -fx-text-fill: rgb(255, 255, 255);
+  -fx-font-weight: bold;
+}
+
+.text-field {
+  -fx-font-size: 14px;
+  -fx-pref-width: 120px;
+}
+
+
+/* .scene1 {
+  -fx-background-color: #ffffff;
+
+}
+
+
+.scene2 {
+  -fx-background-color: #ffffff;
+
+}
+
+.scene3 {
+  -fx-background-color: #ffffff;
+
+} */
+
+.root {
+  -fx-background-color: #000000;
+}

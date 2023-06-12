@@ -1,0 +1,68 @@
+#section-right {
+    -fx-background-color: #020b31;
+    /* -fx-background-image: url("/images/foto.jpg") */
+}
+
+.section-menu{
+    -fx-background-color: #020b31;
+    -fx-background-radius: 10px;
+    -fx-background-color: #d5d0d0;
+    -fx-text-fill: rgb(0, 0, 0);
+}
+
+Text {
+    -fx-font-size: 25px;
+    -fx-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+}
+
+Button {
+    -fx-background-color: #ecd044; /* Set the background color */
+    -fx-text-fill: white; /* Set the text color */
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial"; /* Set the font family */
+    -fx-font-size: 20px; /* Set the font size */
+    -fx-pref-width: 200px; /* Set the preferred width */
+    -fx-pref-height: 50px; /* Set the preferred height */
+    -fx-background-radius: 30px;
+}
+
+#hasil-konversi {
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-family: "Arial";
+}
+
+#info-description {
+    -fx-text-fill: rgb(157, 157, 157);
+    -fx-font-size: 10px;
+}
+
+#button-clear {
+    -fx-pref-width: 192px; 
+    -fx-pref-height: 50px; 
+    -fx-background-radius: 10px;
+    -fx-background-color: #d5d0d0;
+}
+
+#button-konv {
+    -fx-pref-width: 192px; /* Set the preferred width */
+    -fx-pref-height: 50px; /* Set the preferred height */
+    -fx-background-radius: 10px;
+}
+
+#button-back {
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-border-weight: bold;
+    -fx-pref-width: 400px;
+    -fx-pref-height: 50px;
+    -fx-border-radius: 10px;
+}
+
+#input-money {
+    -fx-max-width: 400px;
+    -fx-pref-height: 50px;
+    -fx-background-radius: 10px;
+}

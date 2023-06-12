@@ -23,5 +23,11 @@ _Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruk
   git commit -m "<pesan commit>"
   git push origin main
   ```
+- NOTE : Pastikan menggunakan "Tokens (classic)" pada saat melakukan push (GitHub sudah tidak support menggunakan password)
+  ```
+  git push origin main
+  username : your_username
+  password : your_personal_access_token
+  ```
 - Setelah perintah tersebut berhasil, silahkan membuka repository hasil fork kalian di github dan lakukan pull request ke repository ini. 
 - Apabila terdapat kesulitan, silahkan menghubungi asistennya
