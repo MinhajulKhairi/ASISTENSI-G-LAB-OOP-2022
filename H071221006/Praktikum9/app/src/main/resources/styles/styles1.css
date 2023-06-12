@@ -1,0 +1,50 @@
+/* #section-right {
+    -fx-background-color: #ae9798
+} */
+
+Text {
+    -fx-font-size: 24px;
+    -fx-fill: rgb(244, 243, 243);
+    -fx-font-weight: bold;
+}
+
+.rootNode {
+    -fx-padding: 50px;
+    -fx-background-color: #47b9eb
+}
+
+.button1 {
+    -fx-min-width: 0;
+    -fx-min-height: 0;
+    -fx-padding: 10px 20px;
+    -fx-background-color: #52b9d5;
+    -fx-text-fill: white;
+    -fx-background-radius: 10px;
+}
+
+.button2 {
+    -fx-min-width: 0;
+    -fx-min-height: 0;
+    -fx-padding: 10px 20px;
+    -fx-background-color: #52b9d5;
+    -fx-text-fill: white;
+    -fx-background-radius: 10px;
+}
+
+.button3 {
+    -fx-min-width: 0;
+    -fx-min-height: 0;
+    -fx-padding: 10px 20px;
+    -fx-background-color: #52b9d5;
+    -fx-text-fill: white;
+    -fx-background-radius: 10px;
+}
+
+.button4 {
+    -fx-min-width: 80px;
+    -fx-min-height: 30px;
+    -fx-padding: 10px 20px;
+    -fx-background-color: #52b9d5;
+    -fx-text-fill: white;
+    -fx-background-radius: 10px;
+}
